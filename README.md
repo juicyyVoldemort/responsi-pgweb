@@ -1,5 +1,14 @@
 # responsi-pgweb
-Punya Calvin
+Calvinros Mr.
 22/499130/SV/21283
 
-Tema yang dipilih sebenarnya ngawur, tapi pengerjaannya serius. Semuanya adalah tentang bagaimana kita dapat membuat sesuatu yang tidak pernah dilihat oleh orang, sesuatu yang sangat sepele, akan tetapi dieksekusi dengan maksimal. Terima kasih atas semua bimbingan dan dukungan oleh semua pihak yang memungkinkan saya membuat website ini dengan kendala yang tidak terlalu banyak.
+Nama produk: Sow Good
+Deskripsi: Destinasi online untuk para pemggemar kuliner babi nusantara. Berisikan informasi seputar dunia cita rasa yang membantu pengguna memghidupi passion mereka
+Komponen pembangun produk:
+- HTML
+- PHP
+- Javasvript
+- Bootstrap
+Sumber data:
+- Internet
+Tangkapan layar Komponen penting produk:
