@@ -11,4 +11,6 @@ Komponen pembangun produk:
 - Bootstrap
 Sumber data:
 - Internet
+
 Tangkapan layar Komponen penting produk:
+https://drive.google.com/drive/folders/1dVCX9HY9Pp8ZoMHESjEvnL4U9xMRTNmN
